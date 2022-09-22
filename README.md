@@ -1,4 +1,8 @@
-## Oi! Eu sou o Joás Camargo, estudante de Análise e Desevolvimento de Sistemas com foco em programação back-end.
+<div align="center">
+
+## Oii! Eu sou o Joás Camargo
+
+</div>
 
 <div align="center">
   <a href="https://github.com/joascamargo">
