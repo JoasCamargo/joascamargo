@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/joascamargo">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joascamargo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joascamargo&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joascamargo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joascamargo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 <div align="center">
@@ -23,7 +23,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
+  <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">  
+  <img align="center" i class="devicon-microsoftsqlserver-plain-wordmark"></i>
 </div>
 
 ##
