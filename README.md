@@ -1,6 +1,6 @@
 <div align="center">
 
-## Oii! Eu sou o Joás Camargo developer back-end.
+## Oii! Eu sou o Joás Camargo desenvolvedor back-end.
 
 </div>
 
